@@ -2,6 +2,8 @@
 
 Quick and dirty proyect to show a series of title cards on OBS.
 
+**NOTE: This is just an initial proof-of-concept and still in early development, meaning it still does not work properly.**
+
 ## Setup
 - Clone repository
 - install dependencies `pnpm install`
